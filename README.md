@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Jawand Singh
+I'm Jawand
 
 [![jawand's github stats](https://github-readme-stats.vercel.app/api?username=jawand)](https://github.com/anuraghazra/github-readme-stats)
 
